@@ -28,13 +28,13 @@ class StoreRegistrationScreen extends StatefulWidget {
 class _StoreRegistrationScreenState extends State<StoreRegistrationScreen> {
   _StoreRegistrationScreenState() {
     if (kDebugMode) {
-      _nameController.text = "_nameController";
-      _addressController.text = "_addressController";
+      _nameController.text = "nameController";
+      _addressController.text = "addressController";
       _vatController.text = "16";
       _minTimeController.text = "20";
       _maxTimeController.text = "30";
-      _fNameController.text = "_fNameController";
-      _lNameController.text = "_lNameController";
+      _fNameController.text = "fNameController";
+      _lNameController.text = "lNameController";
       //_phoneController.text = "";
       _phoneController.text = "";
       //_emailController.text = "@gmail.com";
