@@ -59,7 +59,7 @@ dev_dependencies:
     
     
 flutter_icons:
-  image_path: "assets/image/appstore_logo.png"
+  image_path: "assets/image/logo_m_mart.png"
   android: true
   ios: true 
 
